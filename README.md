@@ -1,7 +1,3 @@
-Claro! Aqui está a **documentação detalhada** do seu código explicando cada parte, seguida do **código limpo (sem comentários)**, conforme você pediu.
-
----
-
 ## 📝 **Documentação do Código - Estação de Monitoramento com Raspberry Pi Pico**
 
 ### 🎯 Objetivo Geral
